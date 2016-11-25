@@ -3,7 +3,7 @@
 define('DB_HOST', '127.0.0.1');
 define('DB_NAME', 'laravel');
 define('DB_USER', 'root');
-define('DB_PASSWORD', 'tab7k3fgk');
+define('DB_PASSWORD', 'senha');
 define('DB_PORT', 3306);
 
 return [
